@@ -60,7 +60,7 @@ Efectivamente, el uso de las leyes de Kirchhoff son de gran utilidad para realiz
 
 ## 8. BIBLIOGRAFÍA
 
-* Durán, J. (2012).*Electrotecnia*. Barcelona: Editorial Lexus.
+* Durán, J. (2012). *Electrotecnia*. Barcelona: Editorial Lexus.
 * Thomas, L. (2007). *Principios de circuitos eléctricos*. México: Editorial Pearson.
 * Maldonado, A. (2016). *Tecnología eléctrica*. Quito: Poli Ediciones.
 * Fraile, J. (2012). *Circuitos eléctricos*. Madrid: Editorial Pearson.
