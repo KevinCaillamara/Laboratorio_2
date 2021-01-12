@@ -1,5 +1,5 @@
 # Laboratorio 2: Análisis de mallas
-Integrantes: Caillamara Leonardo, González Ariel
+**Integrantes:** Caillamara Leonardo, González Ariel
 ## 1. OBJETIVOS
 
 ### Objetivo general:
